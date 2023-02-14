@@ -257,7 +257,7 @@ a{
 }
 
 .home__image{
-  width: clamp(min(320px, 100%), 85vh, 445px);
+  width: clamp(min(250px, 100%), 85vh, 350px);
   height: auto;
   margin: 0 auto;
   align-items: center;
