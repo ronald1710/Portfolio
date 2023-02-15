@@ -568,6 +568,12 @@ textarea {
 }
 
 /*=========BREAKPOINT==========*/
+@media (max-width: 400px){
+  .navbar__menu{
+    display: none;
+  }
+}
+
 @media (max-width: 768px) {
   .navbar__menu {
     position: fixed;
