@@ -568,11 +568,13 @@ textarea {
 }
 
 /*=========BREAKPOINT==========*/
-@media (max-width: 400px){
-  .navbar__menu{
-    display: none;
+/*@media (max-width: 450px){
+  
+  .navbar__logo{
+    height: 1rem;
+    
   }
-}
+}*/
 
 @media (max-width: 768px) {
   .navbar__menu {
